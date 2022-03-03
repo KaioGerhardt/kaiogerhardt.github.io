@@ -148,10 +148,10 @@ function details() {
   })
 }
 
-//Descriçãoskills pessoais
+//Descrição skills pessoais
 function listAllTechnology() {
   let tech = ["HTML", "CSS", "Python", "JavaScript", 
-  "Django", "Redes", "Windows", "Linux", "E-commerce", "Git", "GitHub", "Automação", "CloudComputing",
+  "Django", "Redes", "Windows", "Linux", "E-commerce", "Git", "GitHub", "Java", "CloudComputing",
     "Implementação Cloud", "Suporte HelpDesk"];
 
   let card = document.getElementById("card-skills");
