@@ -61,7 +61,7 @@
   height: 5px;
   margin: 6px 0;
   transition: 0.4s;
-  background: -webkit-linear-gradient(135deg, #3f2dc8, #6247aa, #e38c8f);
+  background: -webkit-linear-gradient(135deg, #00b8ff, #253449, #0a192f);
 }
 
 .change .bar1 {
@@ -101,7 +101,7 @@
 
   .navbar-show--toggle {
     display: flex;
-    background: white;
+    background: #253449;
     padding: 4rem;
   }
 
