@@ -29,16 +29,17 @@ let projects = [
     language: "HTML · SCSS · Tray · ERP · Python",
     description: "Desenvolvimento de loja virtual própria e integração com marketplaces."
   },
-  /*
+  
   {
     id: 4,
-    urlImage: "img/netflix.PNG",
-    urlGitHub: "https://github.com/alynevieira/netflix-clone",
+    urlImage: "img/campanhas_panitz.PNG",
+    urlGitHub: "https://campanhas.panitz.com.br/",
     urlLink: "",
-    name: "Netflix clone",
-    language: "HTML · CSS · JavaScript · JQuery",
-    description: "O site foi realizado na proposta de um projeto do bootcamp na Digital Innovation One. O objetivo foi recriar a interface do Netflix, adicionando novas funcionalidades e a criatividade."
+    name: "Campanhas Panitz",
+    language: "HTML · CSS · JavaScript · Bootstrap",
+    description: "Paginas web em formato de Lading Page desenvolvidas especialmente para redirecinamento de campanhas Google"
   },
+  /*
   {
     id: 6,
     urlImage: "img/ecoleta.PNG",
