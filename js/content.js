@@ -33,8 +33,8 @@ let projects = [
   {
     id: 4,
     urlImage: "img/campanhaspanitz.PNG",
-    urlGitHub: "https://campanhas.panitz.com.br/",
-    urlLink: "",
+    urlGitHub: "",
+    urlLink: "https://campanhas.panitz.com.br/",
     name: "Campanhas Panitz",
     language: "HTML · CSS · JavaScript · Bootstrap",
     description: "Paginas web em formato de Lading Page desenvolvidas especialmente para redirecinamento de campanhas Google"
