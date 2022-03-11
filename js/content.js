@@ -32,7 +32,7 @@ let projects = [
   
   {
     id: 4,
-    urlImage: "img/campanhas_panitz.PNG",
+    urlImage: "img/campanhaspanitz.PNG",
     urlGitHub: "https://campanhas.panitz.com.br/",
     urlLink: "",
     name: "Campanhas Panitz",
